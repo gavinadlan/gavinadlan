@@ -36,9 +36,9 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 ---
 
 ## 🌐 Reach me on
-- [LinkedIn]www.linkedin.com/in/gavinadlan)
-- [Twitter]https://x.com/gavin_adlan)
-- [gavinadlanhid@gmail.com]
-- [Instagram]https://www.instagram.com/gavin_adlan/)
+- <a href="www.linkedin.com/in/gavinadlan/">LinkedIn</a>
+- <a href="https://x.com/gavin_adlan">X</a>
+- gavinadlanhid@gmail.com
+- <a href="https://www.instagram.com/gavin_adlan">Instagram</a>
 
 
