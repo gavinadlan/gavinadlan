@@ -18,7 +18,7 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
   <img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" title="React.js" alt="React.js" width="40" height="40"/>
   <img src="https://v2.vuejs.org/images/logo.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" title="Dart" alt="Dart" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/PHP-logo.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="https://www.php.net/images/logos/php-logo.svg" title="PHP" alt="PHP" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
