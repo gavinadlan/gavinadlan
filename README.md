@@ -4,7 +4,7 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 
 - 🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
 - 💬 Feel free to ask me about front-end development.
-- 📫 How to reach me: [gavinadlanhid@gmail.com]
+- 📫 How to reach me: gavinadlanhid@gmail.com
 - ⚡ My Wish: To become a successful entrepreneur.
 
 ---
