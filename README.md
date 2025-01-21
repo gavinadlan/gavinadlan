@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
+🌱 I’m currently learning Vue.js, Flutter, Go.
 
 💬 Feel free to ask me about front-end development.
 
