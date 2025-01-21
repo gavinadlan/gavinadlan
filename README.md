@@ -1,11 +1,39 @@
-# Hi! 👋 I'm Gavin Adlan Hidayat
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gavinadlan.gavinadlan” />
 
-An Junior Frontend Developer with a focus on web and mobile development. I am passionate about front-end development and continuously exploring new technologies to improve user experience. My expertise lies in turning designs into high-quality code, focusing on accessibility and performance.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gavin+Adlan!;” />
+</h1>
 
-- 🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
-- 💬 Feel free to ask me about front-end development.
-- 📫 How to reach me: gavinadlanhid@gmail.com
-- ⚡ My Wish: To become a successful entrepreneur.
+<h3 align="center">A passionate Front-End developer from Indonesia 🇮🇩</h3>
+
+<br/>
+
+<div align="center">
+ 
+🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
+
+💬 Feel free to ask me about front-end development.
+
+⚡ My Wish: To become a successful entrepreneur.
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:gavinadlanhid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/gavinadlan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<a href="https://www.instagram.com/gavin_adlan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://x.com/gavin_adlan" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+</div>
 
 ---
 
@@ -50,12 +78,6 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 
 
 
----
 
-## 🌐 Reach me on
-- <a href="www.linkedin.com/in/gavinadlan/">LinkedIn</a>
-- <a href="https://x.com/gavin_adlan">X</a>
-- gavinadlanhid@gmail.com
-- <a href="https://www.instagram.com/gavin_adlan">Instagram</a>
 
 
