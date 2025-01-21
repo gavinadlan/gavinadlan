@@ -24,13 +24,20 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 
 ---
 
-## 📊 Github Statistic
-<p align="left">
-  <a href="https://github.com/gavinadlan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gavinadlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gavinadlan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <!-- Streak Stats -->
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gavinadlan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <!-- GitHub Stats -->
+  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=gavinadlan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img width=325 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gavinadlan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 
 
 
