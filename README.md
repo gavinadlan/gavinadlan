@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
-    🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
+🌱 I’m currently learning Vue.js for preparation to Certification Vue.js Developer and exploring mobile development with Dart/Flutter.
 
-    💬 Feel free to ask me about front-end development.
+💬 Feel free to ask me about front-end development.
 
-    ⚡ My Wish: To become a successful entrepreneur.
+⚡ My Wish: To become a successful entrepreneur.
 </div>
 
 <div align="center"> 
