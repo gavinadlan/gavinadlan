@@ -23,7 +23,6 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 </div>
 
 ---
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -33,7 +32,6 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
   <br/><br/><br/>
 </div>
 
-<hr/>
 ---
 
 <h2 align="center">⚡ Stats ⚡</h2>
