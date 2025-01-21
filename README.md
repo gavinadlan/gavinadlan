@@ -9,28 +9,27 @@ An Junior Frontend Developer with a focus on web and mobile development. I am pa
 
 ---
 
-## 🛠️ Tech Stack
+<hr/>
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" title="React.js" alt="React.js" width="40" height="40"/>
-  <img src="https://v2.vuejs.org/images/logo.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" title="Dart" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>
-</div>
-
----
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gavinadlan/gavinadlan/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" title="HTML" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png" title="PHP" alt="PHP" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" title="Dart" alt="Dart" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521772-2945272.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp" title="VueJS" alt="VueJS" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+    <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" title="ReactJS" alt="ReactJS" width="40" height="40"/>
 </div>
+
+<br/>
+<hr/>
 
 ---
 
