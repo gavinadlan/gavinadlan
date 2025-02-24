@@ -48,6 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
     <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" title="ReactJS" alt="ReactJS" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
 </div>
 
 <br/>
