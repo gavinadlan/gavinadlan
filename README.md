@@ -9,9 +9,9 @@
 <div align="center">
 🌱 I’m currently learning Next.js, TS, and Go.
 
-💬 Feel free to ask me about front-end development.
+💬 Feel free to ask me about front-end and back-end development.
 
-⚡ My Wish: To become a successful entrepreneur.
+⚡ My Wish: To become a Software Engineering.
 </div>
 
 <div align="center"> 
@@ -40,6 +40,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png" title="PHP" alt="PHP" width="40" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/600px-Dart_logo.png?20220718193800" title="Dart" alt="Dart" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521772-2945272.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>
     <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
