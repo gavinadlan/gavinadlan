@@ -1,18 +1,22 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gavin+Adlan!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gavin+Adlan!" />
 </h1>
 
-<h3 align="center">A passionate Front-End Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A Passionate Web Developer from Indonesia 🇮🇩</h3>
+
+<p align="center">
+🚀 Front-End Focused, Curious About Back-End, and Eager to Build Amazing Web Experiences.
+</p>
 
 <br/>
 
 <div align="center">
-🌱 I’m currently learning Next.js, TS, and Go.
-
-💬 Feel free to ask me about front-end and back-end development.
-
-⚡ My Wish: To become a Software Engineering.
+🧠 Currently learning <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Go</strong>.<br/>
+📬 Open for freelance projects & collaborations.<br/>
+🎯 Goal: To become a skilled and impactful Software Engineer.
 </div>
+
+<br/>
 
 <div align="center"> 
   <a href="mailto:gavinadlanhid@gmail.com">
@@ -22,10 +26,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gavin_adlan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/gavin_adlan" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
