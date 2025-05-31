@@ -35,11 +35,10 @@
 
 ---
 
-<hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <!-- Languages -->
     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" title="HTML" alt="HTML" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png" title="PHP" alt="PHP" width="40" height="40"/>
@@ -54,21 +53,27 @@
     <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" title="ReactJS" alt="ReactJS" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354210/prisma.svg" title="Prisma" alt="Prisma" width="40" height="40"/>
 </div>
 
 <br/>
 <hr/>
 
----
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <!-- Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gavinadlan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <!-- GitHub Stats -->
-  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=gavinadlan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align=center>
+  <a href="#" title="Go to Source">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gavinadlan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </a>
+  <a href="#" title="Go to Source">
+    <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=gavinadlan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </a>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavinadlan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gavinadlan.gavinadlan" />
