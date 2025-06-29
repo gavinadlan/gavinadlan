@@ -58,6 +58,7 @@
     <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
     <!-- Database -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/354210/prisma.svg" title="Prisma" alt="Prisma" width="40" height="40"/>
     <!-- DevOps & Cloud -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
