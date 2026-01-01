@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gavin+Adlan!" />
 </h1>
 
-<h3 align="center">A Passionate Software Engineer from Indonesia 🇮🇩 </h3>
+<h3 align="center">A Passionate Software Engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
 🚀 Front-End Focused, Curious About Back-End, and Eager to Build Amazing Software Solutions.
