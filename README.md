@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-🧠 Currently learning <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Go</strong>.<br/>
+🧠 Currently learning <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Go</strong>, and diving into <strong>Web3 & Smart Contracts</strong>.
 📬 Open for freelance projects & collaborations.<br/>
 🎯 Goal: To become a skilled and impactful Software Engineer.
 </div>
