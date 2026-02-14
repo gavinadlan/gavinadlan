@@ -11,10 +11,9 @@
 <br/>
 
 <div align="center">
-🧠 Currently learning <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Go</strong>, and diving into <strong>Web3 & Smart Contracts</strong>.
-  
-📬 Open for freelance projects & collaborations.<br/>
-🎯 Goal: To become a skilled and impactful Software Engineer.
+  🧠 Exploring <strong>Web3, Blockchain Architecture, and Smart Contracts</strong>.<br/>
+  📬 Open for freelance projects & collaborations.<br/>
+  🎯 Growing as a Software Engineer across Web2 & Web3.
 </div>
 
 <br/>
